@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="lib" path="lib/JAR/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Burak/Documents/Eclipse Workspace/Java/SBN Engine/lib/NATIVE"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/JAR/lwjgl_util.jar" sourcepath="lib/JAR/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/JAR/slick-util.jar"/>
+	<classpathentry kind="lib" path="lib/JAR/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Burak/Documents/Eclipse Workspace/Java/SBN Engine/lib/NATIVE/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/JAR/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="lib/JAR/JBullet.jar"/>
+	<classpathentry kind="lib" path="lib/JAR/vecmath.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_221"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
